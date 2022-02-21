@@ -1,0 +1,190 @@
+Summary,Issue key,Issue id,Issue Type,Status,Project key,Project name,Project type,Project lead,Project lead id,Project description,Priority,Resolution,Assignee,Assignee Id,Reporter,Reporter Id,Creator,Creator Id,Created,Updated,Last Viewed,Resolved,Due date,Votes,Labels,Description,Environment,Watchers,Watchers Id,Original estimate,Remaining Estimate,Time Spent,Work Ratio,Σ Original Estimate,Σ Remaining Estimate,Σ Time Spent,Security Level,Outward issue link (Blocks),Outward issue link (Relates),Attachment,Custom field (Actual end),Custom field (Actual start),Custom field (Change reason),Custom field (Change risk),Custom field (Change type),Custom field (Development),Custom field (Epic Link),Custom field (Impact),Custom field (Issue color),Custom field (Rank),Custom field (Request Type),Sprint,Custom field (Start date),Custom field (Story Points),Custom field (Story point estimate),Custom field (Target end),Custom field (Target start),Custom field (Team),Custom field ([CHART] Date of First Response),Status Category
+Verify the Note Title field in Add New Note section with white space,EL-63,10155,Bug,To Do,EL,Elearning,software,Abhishek Maiti,620b30fe1d088700694d76f9,,Medium,,Abhishek Maiti,620b30fe1d088700694d76f9,Abhishek Maiti,620b30fe1d088700694d76f9,Abhishek Maiti,620b30fe1d088700694d76f9,18/Feb/22 10:02 AM,18/Feb/22 3:48 PM,18/Feb/22 10:05 AM,,,0,,"Verify the Note Title field in Add New Note section with white space
+
+Test steps:
+1. Go to Elearning Portal, then click on My courses, then click on the subscribed course and go to Notebook tab
+2. Click on Add new note in my personal notebook
+3. Verify the Note Title field with white space
+
+Test data:
+  
+
+Expected result:
+Value should not be accepted
+
+Actual result:
+Value is accepted
+
+Screenshot:
+ !image-2022-02-18-10-02-22-566.png|thumbnail! ",,Abhishek Maiti,620b30fe1d088700694d76f9,,,,,,,,,EL-5,EL-16,18/Feb/22 10:02 AM;ug:08a285bd-f5f0-4a64-82e4-30d245fd976d;image-2022-02-18-10-02-22-566.png;https://abhix.atlassian.net/secure/attachment/10010/image-2022-02-18-10-02-22-566.png,,,,,,{},,,,0|i000x0:,,EL Sprint 1,,,,,,,,To Do
+Verify the Select all button value in Add a new folder section for bulk action,EL-62,10154,Bug,To Do,EL,Elearning,software,Abhishek Maiti,620b30fe1d088700694d76f9,,Medium,,Abhishek Maiti,620b30fe1d088700694d76f9,Abhishek Maiti,620b30fe1d088700694d76f9,Abhishek Maiti,620b30fe1d088700694d76f9,17/Feb/22 5:01 PM,18/Feb/22 3:48 PM,17/Feb/22 5:05 PM,,,0,,"Verify the Select all button value in Add a new folder section for bulk action
+
+Test steps:
+1. Go to Elearning Portal, then click on My courses, then click on 
+2. Click on the subscribed course and go to Dropbox tab
+3. Verify the Select all button value in Add a new folder section for bulk action
+
+Expected result:
+We should be able to apply bulk actions
+
+Actual result:
+We are not able to apply bulk action
+
+Screenshot:
+ !image-2022-02-17-17-00-52-327.png|thumbnail! ",,Abhishek Maiti,620b30fe1d088700694d76f9,,,,,,,,,EL-8,EL-56,17/Feb/22 5:00 PM;ug:08a285bd-f5f0-4a64-82e4-30d245fd976d;image-2022-02-17-17-00-52-327.png;https://abhix.atlassian.net/secure/attachment/10008/image-2022-02-17-17-00-52-327.png,,,,,,{},,,,0|i000ws:,,EL Sprint 1,,,,,,,,To Do
+Verify the Category name with white space value in Add a new folder section,EL-61,10153,Bug,To Do,EL,Elearning,software,Abhishek Maiti,620b30fe1d088700694d76f9,,Medium,,,,Abhishek Maiti,620b30fe1d088700694d76f9,Abhishek Maiti,620b30fe1d088700694d76f9,17/Feb/22 4:58 PM,18/Feb/22 3:48 PM,17/Feb/22 5:10 PM,,,0,,"Verify the Category name with alphabetic value in Add a new folder section
+
+Test steps:
+1. Go to Elearning Portal, then click on My courses, then click on 
+2. Click on the subscribed course and go to Dropbox tab
+3. Verify the Category name with white space value in Add a new folder section
+
+Test data:
+
+Expected result:
+Value should not be accepted
+
+Actual result:
+Value is accepted
+
+Screenshot:
+
+!image-20220217-114044.png|width=525,height=96!",,Abhishek Maiti,620b30fe1d088700694d76f9,,,,,,,,,EL-8,EL-60,17/Feb/22 5:10 PM;ug:08a285bd-f5f0-4a64-82e4-30d245fd976d;image-20220217-114044.png;https://abhix.atlassian.net/secure/attachment/10009/image-20220217-114044.png,,,,,,{},,,,0|i000wk:,,EL Sprint 1,,,,,,,,To Do
+Verify the Category name with white space value in Add a new folder section,EL-60,10152,Test,In Progress,EL,Elearning,software,Abhishek Maiti,620b30fe1d088700694d76f9,,Medium,,,,Abhishek Maiti,620b30fe1d088700694d76f9,Abhishek Maiti,620b30fe1d088700694d76f9,17/Feb/22 4:49 PM,18/Feb/22 10:06 AM,17/Feb/22 4:50 PM,,,0,,,,Abhishek Maiti,620b30fe1d088700694d76f9,,,,,,,,,,,,,,,,,{},,,,0|i000vk:,,EL Sprint 1,,,,,,,,In Progress
+Verify the Back button in Add New Note section,EL-59,10151,Bug,To Do,EL,Elearning,software,Abhishek Maiti,620b30fe1d088700694d76f9,,Medium,,,,Abhishek Maiti,620b30fe1d088700694d76f9,Abhishek Maiti,620b30fe1d088700694d76f9,17/Feb/22 4:28 PM,18/Feb/22 3:48 PM,17/Feb/22 4:28 PM,,,0,,"Verify the Back button in Add New Note section
+
+Steps:
+1. Go to Elearning Portal, then click on My courses, then click on the subscribed course and go to Notebook tab
+2. Click on Add new note in my personal notebook
+3. Verify the Back button in Add New Note section
+
+Expected result:
+Notebook homepage should open
+
+Actual result:
+Notebook homepage is not open
+
+Screenshot:
+ !image-2022-02-17-16-27-47-744.png|thumbnail! ",,Abhishek Maiti,620b30fe1d088700694d76f9,,,,,,,,,EL-5,EL-30,17/Feb/22 4:27 PM;ug:08a285bd-f5f0-4a64-82e4-30d245fd976d;image-2022-02-17-16-27-47-744.png;https://abhix.atlassian.net/secure/attachment/10007/image-2022-02-17-16-27-47-744.png,,,,,,{},,,,0|i000w4:,,EL Sprint 1,,,,,,,,To Do
+Verify the Note Title field in Add New Note section with asterisk(*),EL-58,10150,Bug,To Do,EL,Elearning,software,Abhishek Maiti,620b30fe1d088700694d76f9,,Medium,,,,Abhishek Maiti,620b30fe1d088700694d76f9,Abhishek Maiti,620b30fe1d088700694d76f9,17/Feb/22 2:40 PM,18/Feb/22 3:48 PM,17/Feb/22 2:40 PM,,,0,,"Verify the Note Title field in Add New Note section with an asterisk(*)
+
+Steps:
+1. Go to Elearning Portal, then click on My courses, then click on the subscribed course and go to Notebook tab
+2. Click on Add new note in my personal notebook
+3. Verify the Note Title field with asterisk(*)
+
+Expected result:
+* mark should be there in the field label
+
+Actual result:
+* mark is there in the field label
+
+ !image-2022-02-17-14-39-49-686.png|thumbnail! ",,Abhishek Maiti,620b30fe1d088700694d76f9,,,,,,,,,EL-5,EL-18,17/Feb/22 2:39 PM;ug:08a285bd-f5f0-4a64-82e4-30d245fd976d;image-2022-02-17-14-39-49-686.png;https://abhix.atlassian.net/secure/attachment/10006/image-2022-02-17-14-39-49-686.png,,,,,,{},,,,0|i000vw:,,EL Sprint 1,,,,,,,,To Do
+Verify the Note Title field in Add New Note section with more than 30 characters,EL-57,10149,Bug,To Do,EL,Elearning,software,Abhishek Maiti,620b30fe1d088700694d76f9,,Medium,,,,Abhishek Maiti,620b30fe1d088700694d76f9,Abhishek Maiti,620b30fe1d088700694d76f9,17/Feb/22 12:50 PM,18/Feb/22 3:48 PM,17/Feb/22 2:37 PM,,,0,,"Verify the Note Title field in Add New Note section with more than 30 characters
+
+Steps:
+1. Go to Elearning Portal, then click on My courses, then click on the subscribed course and go to the Notebook tab
+2. Click on Add new note in my personal notebook
+3. Verify the Note Title field with more than 30 characters
+
+Test data:
+asdfghjklwertyuirctvybutexrctvybuextcyvubz
+
+Expected result:
+A validation message should appear
+
+Actual result:
+The validation message didn't appear
+
+Screenshot:
+
+!image-2022-02-17-12-49-52-877.png|width=200,height=183!
+
+ ",,Abhishek Maiti,620b30fe1d088700694d76f9,,,,,,,,,EL-5,EL-15,17/Feb/22 12:49 PM;ug:08a285bd-f5f0-4a64-82e4-30d245fd976d;image-2022-02-17-12-49-52-877.png;https://abhix.atlassian.net/secure/attachment/10005/image-2022-02-17-12-49-52-877.png,,,,,,{},,,,0|i000vo:,,EL Sprint 1,,,,,,,,To Do
+Verify the Select all button value in Add a new folder section for bulk action,EL-56,10148,Test,In Progress,EL,Elearning,software,Abhishek Maiti,620b30fe1d088700694d76f9,,Medium,,Abhishek Maiti,620b30fe1d088700694d76f9,Abhishek Maiti,620b30fe1d088700694d76f9,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,17/Feb/22 12:14 PM,17/Feb/22 5:06 PM,17/Feb/22 4:50 PM,,,0,,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,EL-8,,,,,,,{},,,,0|i000vg:,,EL Sprint 1,,,,,,,,In Progress
+Verify the Delete Category button value in Add a new folder section,EL-55,10147,Test,Done,EL,Elearning,software,Abhishek Maiti,620b30fe1d088700694d76f9,,Medium,,Abhishek Maiti,620b30fe1d088700694d76f9,Abhishek Maiti,620b30fe1d088700694d76f9,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,17/Feb/22 12:14 PM,17/Feb/22 5:06 PM,21/Feb/22 9:50 AM,,,0,,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,EL-8,,,,,,,{},,,,0|i000v8:,,EL Sprint 1,,,,,,,,Done
+Verify the Edit Category button value in Add a new folder section,EL-54,10146,Test,Done,EL,Elearning,software,Abhishek Maiti,620b30fe1d088700694d76f9,,Medium,,Abhishek Maiti,620b30fe1d088700694d76f9,Abhishek Maiti,620b30fe1d088700694d76f9,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,17/Feb/22 12:14 PM,17/Feb/22 5:06 PM,21/Feb/22 9:50 AM,,,0,,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,EL-8,,,,,,,{},,,,0|i000v0:,,EL Sprint 1,,,,,,,,Done
+Verify the Category name with special character value in Add a new folder section,EL-53,10145,Test,Done,EL,Elearning,software,Abhishek Maiti,620b30fe1d088700694d76f9,,Medium,,Abhishek Maiti,620b30fe1d088700694d76f9,Abhishek Maiti,620b30fe1d088700694d76f9,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,17/Feb/22 12:14 PM,17/Feb/22 5:07 PM,17/Feb/22 12:39 PM,,,0,,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,EL-8,,,,,,,{},,,,0|i000us:,,EL Sprint 1,,,,,,,,Done
+Verify the Category name with alphanumeric value in Add a new folder section,EL-52,10144,Test,Done,EL,Elearning,software,Abhishek Maiti,620b30fe1d088700694d76f9,,Medium,,Abhishek Maiti,620b30fe1d088700694d76f9,Abhishek Maiti,620b30fe1d088700694d76f9,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,17/Feb/22 12:14 PM,17/Feb/22 5:07 PM,21/Feb/22 9:50 AM,,,0,,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,EL-8,,,,,,,{},,,,0|i000uk:,,EL Sprint 1,,,,,,,,Done
+Verify the Category name with numeric value in Add a new folder section,EL-51,10143,Test,Done,EL,Elearning,software,Abhishek Maiti,620b30fe1d088700694d76f9,,Medium,,Abhishek Maiti,620b30fe1d088700694d76f9,Abhishek Maiti,620b30fe1d088700694d76f9,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,17/Feb/22 12:14 PM,17/Feb/22 5:08 PM,21/Feb/22 9:50 AM,,,0,,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,EL-8,,,,,,,{},,,,0|i000uc:,,EL Sprint 1,,,,,,,,Done
+Verify the Category name with alphabetic value in Add a new folder section,EL-50,10142,Test,Done,EL,Elearning,software,Abhishek Maiti,620b30fe1d088700694d76f9,,Medium,,Abhishek Maiti,620b30fe1d088700694d76f9,Abhishek Maiti,620b30fe1d088700694d76f9,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,17/Feb/22 12:14 PM,17/Feb/22 5:09 PM,21/Feb/22 9:50 AM,,,0,,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,EL-8,,,,,,,{},,,,0|i000u4:,,EL Sprint 1,,,,,,,,Done
+Verify the Category name with blank value in Add a new folder section,EL-49,10141,Test,Done,EL,Elearning,software,Abhishek Maiti,620b30fe1d088700694d76f9,,Medium,,Abhishek Maiti,620b30fe1d088700694d76f9,Abhishek Maiti,620b30fe1d088700694d76f9,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,17/Feb/22 12:14 PM,17/Feb/22 5:09 PM,21/Feb/22 9:50 AM,,,0,,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,EL-8,,,,,,,{},,,,0|i000tw:,,EL Sprint 1,,,,,,,,Done
+Verify the Add a new folder button,EL-48,10140,Test,Done,EL,Elearning,software,Abhishek Maiti,620b30fe1d088700694d76f9,,Medium,,Abhishek Maiti,620b30fe1d088700694d76f9,Abhishek Maiti,620b30fe1d088700694d76f9,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,17/Feb/22 12:14 PM,17/Feb/22 5:09 PM,21/Feb/22 9:50 AM,,,0,,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,EL-8,,,,,,,{},,,,0|i000to:,,EL Sprint 1,,,,,,,,Done
+Verify the Received files menu,EL-47,10139,Test,Done,EL,Elearning,software,Abhishek Maiti,620b30fe1d088700694d76f9,,Medium,,Abhishek Maiti,620b30fe1d088700694d76f9,Abhishek Maiti,620b30fe1d088700694d76f9,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,17/Feb/22 12:14 PM,17/Feb/22 5:09 PM,21/Feb/22 9:50 AM,,,0,,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,EL-8,,,,,,,{},,,,0|i000tg:,,EL Sprint 1,,,,,,,,Done
+Verify the Sent files menu,EL-46,10138,Test,Done,EL,Elearning,software,Abhishek Maiti,620b30fe1d088700694d76f9,,Medium,,Abhishek Maiti,620b30fe1d088700694d76f9,Abhishek Maiti,620b30fe1d088700694d76f9,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,17/Feb/22 12:14 PM,17/Feb/22 5:09 PM,21/Feb/22 9:50 AM,,,0,,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,EL-8,,,,,,,{},,,,0|i000t8:,,EL Sprint 1,,,,,,,,Done
+Verify the upload button to send files to the selected receivers,EL-45,10137,Test,Done,EL,Elearning,software,Abhishek Maiti,620b30fe1d088700694d76f9,,Medium,,Abhishek Maiti,620b30fe1d088700694d76f9,Abhishek Maiti,620b30fe1d088700694d76f9,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,17/Feb/22 12:14 PM,17/Feb/22 5:09 PM,21/Feb/22 9:50 AM,,,0,,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,EL-8,,,,,,,{},,,,0|i000t0:,,EL Sprint 1,,,,,,,,Done
+Verify the Send to Dropdown menu to select the receivers,EL-44,10136,Test,Done,EL,Elearning,software,Abhishek Maiti,620b30fe1d088700694d76f9,,Medium,,Abhishek Maiti,620b30fe1d088700694d76f9,Abhishek Maiti,620b30fe1d088700694d76f9,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,17/Feb/22 12:14 PM,17/Feb/22 5:09 PM,21/Feb/22 9:50 AM,,,0,,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,EL-8,,,,,,,{},,,,0|i000ss:,,EL Sprint 1,,,,,,,,Done
+Verify the Choose files option to select files,EL-43,10135,Test,Done,EL,Elearning,software,Abhishek Maiti,620b30fe1d088700694d76f9,,Medium,,Abhishek Maiti,620b30fe1d088700694d76f9,Abhishek Maiti,620b30fe1d088700694d76f9,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,17/Feb/22 12:14 PM,17/Feb/22 5:09 PM,21/Feb/22 9:50 AM,,,0,,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,EL-8,,,,,,,{},,,,0|i000sk:,,EL Sprint 1,,,,,,,,Done
+Verify the Share a new file button in Dropbox with upload(simple) option,EL-42,10134,Test,Done,EL,Elearning,software,Abhishek Maiti,620b30fe1d088700694d76f9,,Medium,,Abhishek Maiti,620b30fe1d088700694d76f9,Abhishek Maiti,620b30fe1d088700694d76f9,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,17/Feb/22 12:14 PM,17/Feb/22 5:09 PM,21/Feb/22 9:50 AM,,,0,,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,EL-8,,,,,,,{},,,,0|i000sc:,,EL Sprint 1,,,,,,,,Done
+Verify the Upload files option to send files to the selected receivers,EL-41,10133,Test,Done,EL,Elearning,software,Abhishek Maiti,620b30fe1d088700694d76f9,,Medium,,Abhishek Maiti,620b30fe1d088700694d76f9,Abhishek Maiti,620b30fe1d088700694d76f9,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,17/Feb/22 12:14 PM,17/Feb/22 5:09 PM,21/Feb/22 9:50 AM,,,0,,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,EL-8,,,,,,,{},,,,0|i000s4:,,EL Sprint 1,,,,,,,,Done
+Verify the Send to Dropdown menu to select the receivers,EL-40,10132,Test,Done,EL,Elearning,software,Abhishek Maiti,620b30fe1d088700694d76f9,,Medium,,Abhishek Maiti,620b30fe1d088700694d76f9,Abhishek Maiti,620b30fe1d088700694d76f9,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,17/Feb/22 12:14 PM,17/Feb/22 5:08 PM,21/Feb/22 9:50 AM,,,0,,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,EL-8,,,,,,,{},,,,0|i000rw:,,EL Sprint 1,,,,,,,,Done
+Verify the Share a new file button in Dropbox with upload option,EL-39,10131,Test,Done,EL,Elearning,software,Abhishek Maiti,620b30fe1d088700694d76f9,,Medium,,Abhishek Maiti,620b30fe1d088700694d76f9,Abhishek Maiti,620b30fe1d088700694d76f9,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,17/Feb/22 12:14 PM,17/Feb/22 5:08 PM,17/Feb/22 12:34 PM,,,0,,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,EL-8,,,,,,,{},,,,0|i000ro:,,EL Sprint 1,,,,,,,,Done
+Verify the Delete button of a particular note,EL-38,10130,Test,Done,EL,Elearning,software,Abhishek Maiti,620b30fe1d088700694d76f9,,Medium,,Abhishek Maiti,620b30fe1d088700694d76f9,Abhishek Maiti,620b30fe1d088700694d76f9,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,17/Feb/22 12:14 PM,17/Feb/22 5:06 PM,21/Feb/22 9:50 AM,,,0,,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,EL-5,,,,,,,{},,,,0|i000rg:,,EL Sprint 1,,,,,,,,Done
+Verify the Sort by title button in the Notebook homepage,EL-37,10129,Test,Done,EL,Elearning,software,Abhishek Maiti,620b30fe1d088700694d76f9,,Medium,,Abhishek Maiti,620b30fe1d088700694d76f9,Abhishek Maiti,620b30fe1d088700694d76f9,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,17/Feb/22 12:14 PM,17/Feb/22 5:08 PM,21/Feb/22 9:50 AM,,,0,,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,EL-5,,,,,,,{},,,,0|i000r8:,,EL Sprint 1,,,,,,,,Done
+Verify the Sort by date last modified button in the Notebook homepage,EL-36,10128,Test,Done,EL,Elearning,software,Abhishek Maiti,620b30fe1d088700694d76f9,,Medium,,Abhishek Maiti,620b30fe1d088700694d76f9,Abhishek Maiti,620b30fe1d088700694d76f9,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,17/Feb/22 12:14 PM,17/Feb/22 5:06 PM,21/Feb/22 9:50 AM,,,0,,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,EL-5,,,,,,,{},,,,0|i000r0:,,EL Sprint 1,,,,,,,,Done
+Verify the Sort by date created button in the Notebook homepage,EL-35,10127,Test,Done,EL,Elearning,software,Abhishek Maiti,620b30fe1d088700694d76f9,,Medium,,Abhishek Maiti,620b30fe1d088700694d76f9,Abhishek Maiti,620b30fe1d088700694d76f9,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,17/Feb/22 12:14 PM,17/Feb/22 5:07 PM,21/Feb/22 9:50 AM,,,0,,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,EL-5,,,,,,,{},,,,0|i000qs:,,EL Sprint 1,,,,,,,,Done
+Verify the Edit my personal note button of a particular note,EL-34,10126,Test,Done,EL,Elearning,software,Abhishek Maiti,620b30fe1d088700694d76f9,,Medium,,Abhishek Maiti,620b30fe1d088700694d76f9,Abhishek Maiti,620b30fe1d088700694d76f9,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,17/Feb/22 12:14 PM,17/Feb/22 5:06 PM,21/Feb/22 9:50 AM,,,0,,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,EL-5,,,,,,,{},,,,0|i000qk:,,EL Sprint 1,,,,,,,,Done
+Verify the Edit button of a particular note,EL-33,10125,Test,Done,EL,Elearning,software,Abhishek Maiti,620b30fe1d088700694d76f9,,Medium,,Abhishek Maiti,620b30fe1d088700694d76f9,Abhishek Maiti,620b30fe1d088700694d76f9,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,17/Feb/22 12:14 PM,17/Feb/22 5:07 PM,21/Feb/22 9:50 AM,,,0,,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,EL-5,,,,,,,{},,,,0|i000qc:,,EL Sprint 1,,,,,,,,Done
+Verify the Create Note button position in Add New Note secton,EL-32,10124,Test,Done,EL,Elearning,software,Abhishek Maiti,620b30fe1d088700694d76f9,,Medium,,Abhishek Maiti,620b30fe1d088700694d76f9,Abhishek Maiti,620b30fe1d088700694d76f9,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,17/Feb/22 12:13 PM,17/Feb/22 5:06 PM,21/Feb/22 9:50 AM,,,0,,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,EL-5,,,,,,,{},,,,0|i000q4:,,EL Sprint 1,,,,,,,,Done
+Verify the Back button position in Add New Note secton,EL-31,10123,Test,Done,EL,Elearning,software,Abhishek Maiti,620b30fe1d088700694d76f9,,Medium,,Abhishek Maiti,620b30fe1d088700694d76f9,Abhishek Maiti,620b30fe1d088700694d76f9,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,17/Feb/22 12:13 PM,17/Feb/22 5:06 PM,21/Feb/22 9:50 AM,,,0,,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,EL-5,,,,,,,{},,,,0|i000pw:,,EL Sprint 1,,,,,,,,Done
+Verify the Back button in Add New Note section,EL-30,10122,Test,In Progress,EL,Elearning,software,Abhishek Maiti,620b30fe1d088700694d76f9,,Medium,,Abhishek Maiti,620b30fe1d088700694d76f9,Abhishek Maiti,620b30fe1d088700694d76f9,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,17/Feb/22 12:13 PM,17/Feb/22 4:28 PM,21/Feb/22 9:50 AM,,,0,,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,EL-5,,,,,,,{},,,,0|i000po:,,EL Sprint 1,,,,,,,,In Progress
+Verify the Create Note button in Add New Note section,EL-29,10121,Test,Done,EL,Elearning,software,Abhishek Maiti,620b30fe1d088700694d76f9,,Medium,,Abhishek Maiti,620b30fe1d088700694d76f9,Abhishek Maiti,620b30fe1d088700694d76f9,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,17/Feb/22 12:13 PM,17/Feb/22 5:07 PM,21/Feb/22 9:50 AM,,,0,,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,EL-5,,,,,,,{},,,,0|i000pg:,,EL Sprint 1,,,,,,,,Done
+Verify the Note details field in Add New Note section with Text Color Red,EL-28,10120,Test,Done,EL,Elearning,software,Abhishek Maiti,620b30fe1d088700694d76f9,,Medium,,Abhishek Maiti,620b30fe1d088700694d76f9,Abhishek Maiti,620b30fe1d088700694d76f9,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,17/Feb/22 12:13 PM,17/Feb/22 5:06 PM,21/Feb/22 9:50 AM,,,0,,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,EL-5,,,,,,,{},,,,0|i000p8:,,EL Sprint 1,,,,,,,,Done
+Verify the Note details field in Add New Note section with Text Underline,EL-27,10119,Test,Done,EL,Elearning,software,Abhishek Maiti,620b30fe1d088700694d76f9,,Medium,,Abhishek Maiti,620b30fe1d088700694d76f9,Abhishek Maiti,620b30fe1d088700694d76f9,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,17/Feb/22 12:13 PM,17/Feb/22 5:07 PM,21/Feb/22 9:50 AM,,,0,,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,EL-5,,,,,,,{},,,,0|i000p0:,,EL Sprint 1,,,,,,,,Done
+Verify the Note details field in Add New Note section with Text Italic,EL-26,10118,Test,Done,EL,Elearning,software,Abhishek Maiti,620b30fe1d088700694d76f9,,Medium,,Abhishek Maiti,620b30fe1d088700694d76f9,Abhishek Maiti,620b30fe1d088700694d76f9,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,17/Feb/22 12:13 PM,17/Feb/22 5:06 PM,21/Feb/22 9:50 AM,,,0,,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,EL-5,,,,,,,{},,,,0|i000os:,,EL Sprint 1,,,,,,,,Done
+Verify the Note details field in Add New Note section with Text Bold,EL-25,10117,Test,Done,EL,Elearning,software,Abhishek Maiti,620b30fe1d088700694d76f9,,Medium,,Abhishek Maiti,620b30fe1d088700694d76f9,Abhishek Maiti,620b30fe1d088700694d76f9,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,17/Feb/22 12:13 PM,17/Feb/22 5:07 PM,21/Feb/22 9:50 AM,,,0,,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,EL-5,,,,,,,{},,,,0|i000ok:,,EL Sprint 1,,,,,,,,Done
+Verify the Note details field in Add New Note section with Text size 16,EL-24,10116,Test,Done,EL,Elearning,software,Abhishek Maiti,620b30fe1d088700694d76f9,,Medium,,Abhishek Maiti,620b30fe1d088700694d76f9,Abhishek Maiti,620b30fe1d088700694d76f9,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,17/Feb/22 12:13 PM,17/Feb/22 5:06 PM,21/Feb/22 9:50 AM,,,0,,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,EL-5,,,,,,,{},,,,0|i000oc:,,EL Sprint 1,,,,,,,,Done
+Verify the Note details field in Add New Note section with Comic Sans MS font,EL-23,10115,Test,Done,EL,Elearning,software,Abhishek Maiti,620b30fe1d088700694d76f9,,Medium,,Abhishek Maiti,620b30fe1d088700694d76f9,Abhishek Maiti,620b30fe1d088700694d76f9,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,17/Feb/22 12:13 PM,17/Feb/22 5:07 PM,21/Feb/22 9:50 AM,,,0,,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,EL-5,,,,,,,{},,,,0|i000o4:,,EL Sprint 1,,,,,,,,Done
+Verify the Note details field in Add New Note section with Heading2 paragraph format,EL-22,10114,Test,Done,EL,Elearning,software,Abhishek Maiti,620b30fe1d088700694d76f9,,Medium,,Abhishek Maiti,620b30fe1d088700694d76f9,Abhishek Maiti,620b30fe1d088700694d76f9,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,17/Feb/22 12:13 PM,17/Feb/22 5:06 PM,21/Feb/22 9:50 AM,,,0,,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,EL-5,,,,,,,{},,,,0|i000nw:,,EL Sprint 1,,,,,,,,Done
+Verify the Note details field in Add New Note section with alphanumeric and special characters in normal paragraph format,EL-21,10113,Test,Done,EL,Elearning,software,Abhishek Maiti,620b30fe1d088700694d76f9,,Medium,,Abhishek Maiti,620b30fe1d088700694d76f9,Abhishek Maiti,620b30fe1d088700694d76f9,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,17/Feb/22 12:13 PM,17/Feb/22 5:07 PM,21/Feb/22 9:50 AM,,,0,,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,EL-5,,,,,,,{},,,,0|i000no:,,EL Sprint 1,,,,,,,,Done
+Verify the Note details field in Add New Note section with blank value,EL-20,10112,Test,Done,EL,Elearning,software,Abhishek Maiti,620b30fe1d088700694d76f9,,Medium,,Abhishek Maiti,620b30fe1d088700694d76f9,Abhishek Maiti,620b30fe1d088700694d76f9,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,17/Feb/22 12:13 PM,17/Feb/22 5:06 PM,21/Feb/22 9:50 AM,,,0,,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,EL-5,,,,,,,{},,,,0|i000ng:,,EL Sprint 1,,,,,,,,Done
+Verify the Note Title field position in Add New Note section,EL-19,10111,Test,Done,EL,Elearning,software,Abhishek Maiti,620b30fe1d088700694d76f9,,Medium,,Abhishek Maiti,620b30fe1d088700694d76f9,Abhishek Maiti,620b30fe1d088700694d76f9,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,17/Feb/22 12:13 PM,17/Feb/22 5:06 PM,21/Feb/22 9:50 AM,,,0,,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,EL-5,,,,,,,{},,,,0|i000n8:,,EL Sprint 1,,,,,,,,Done
+Verify the Note Title field in Add New Note section with asterics(*),EL-18,10110,Test,In Progress,EL,Elearning,software,Abhishek Maiti,620b30fe1d088700694d76f9,,Medium,,Abhishek Maiti,620b30fe1d088700694d76f9,Abhishek Maiti,620b30fe1d088700694d76f9,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,17/Feb/22 12:13 PM,17/Feb/22 2:40 PM,17/Feb/22 2:35 PM,,,0,,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,EL-5,,,,,,,{},,,,0|i000n0:,,EL Sprint 1,,,,,,,,In Progress
+Verify the Note Title field in Add New Note section with upper case character,EL-17,10109,Test,Done,EL,Elearning,software,Abhishek Maiti,620b30fe1d088700694d76f9,,Medium,,Abhishek Maiti,620b30fe1d088700694d76f9,Abhishek Maiti,620b30fe1d088700694d76f9,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,17/Feb/22 12:13 PM,17/Feb/22 5:07 PM,21/Feb/22 9:50 AM,,,0,,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,EL-5,,,,,,,{},,,,0|i000ms:,,EL Sprint 1,,,,,,,,Done
+Verify the Note Title field in Add New Note section with white space,EL-16,10108,Test,In Progress,EL,Elearning,software,Abhishek Maiti,620b30fe1d088700694d76f9,,Medium,,Abhishek Maiti,620b30fe1d088700694d76f9,Abhishek Maiti,620b30fe1d088700694d76f9,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,17/Feb/22 12:13 PM,18/Feb/22 10:02 AM,18/Feb/22 9:54 AM,,,0,,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,EL-5,,,,,,,{},,,,0|i000mk:,,EL Sprint 1,,,,,,,,In Progress
+Verify the Note Title field in Add New Note section with more than 30 characters,EL-15,10107,Test,In Progress,EL,Elearning,software,Abhishek Maiti,620b30fe1d088700694d76f9,,Medium,,Abhishek Maiti,620b30fe1d088700694d76f9,Abhishek Maiti,620b30fe1d088700694d76f9,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,17/Feb/22 12:13 PM,17/Feb/22 12:50 PM,17/Feb/22 5:11 PM,,,0,,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,EL-5,,,,,,,{},,,,0|i000mc:,,EL Sprint 1,,,,,,,,In Progress
+Verify the Note Title field in Add New Note section with special character value,EL-14,10106,Test,Done,EL,Elearning,software,Abhishek Maiti,620b30fe1d088700694d76f9,,Medium,,Abhishek Maiti,620b30fe1d088700694d76f9,Abhishek Maiti,620b30fe1d088700694d76f9,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,17/Feb/22 12:13 PM,17/Feb/22 5:07 PM,21/Feb/22 9:50 AM,,,0,,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,EL-5,,,,,,,{},,,,0|i000m4:,,EL Sprint 1,,,,,,,,Done
+Verify the Note Title field in Add New Note section with alphanumeric value,EL-13,10105,Test,Done,EL,Elearning,software,Abhishek Maiti,620b30fe1d088700694d76f9,,Medium,,Abhishek Maiti,620b30fe1d088700694d76f9,Abhishek Maiti,620b30fe1d088700694d76f9,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,17/Feb/22 12:13 PM,17/Feb/22 5:06 PM,21/Feb/22 9:50 AM,,,0,,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,EL-5,,,,,,,{},,,,0|i000lw:,,EL Sprint 1,,,,,,,,Done
+Verify the Note Title field in Add New Note section with numeric value,EL-12,10104,Test,Done,EL,Elearning,software,Abhishek Maiti,620b30fe1d088700694d76f9,,Medium,,Abhishek Maiti,620b30fe1d088700694d76f9,Abhishek Maiti,620b30fe1d088700694d76f9,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,17/Feb/22 12:13 PM,17/Feb/22 5:06 PM,21/Feb/22 9:50 AM,,,0,,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,EL-5,,,,,,,{},,,,0|i000lo:,,EL Sprint 1,,,,,,,,Done
+Verify the Note Title field in Add New Note section with alphabetic value,EL-11,10103,Test,Done,EL,Elearning,software,Abhishek Maiti,620b30fe1d088700694d76f9,,Medium,,Abhishek Maiti,620b30fe1d088700694d76f9,Abhishek Maiti,620b30fe1d088700694d76f9,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,17/Feb/22 12:13 PM,17/Feb/22 5:06 PM,21/Feb/22 9:50 AM,,,0,,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,EL-5,,,,,,,{},,,,0|i000lg:,,EL Sprint 1,,,,,,,,Done
+Verify the Note Title field in Add New Note section with blank value,EL-10,10102,Test,Done,EL,Elearning,software,Abhishek Maiti,620b30fe1d088700694d76f9,,Medium,,Abhishek Maiti,620b30fe1d088700694d76f9,Abhishek Maiti,620b30fe1d088700694d76f9,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,17/Feb/22 12:13 PM,17/Feb/22 12:33 PM,21/Feb/22 9:50 AM,,,0,,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,EL-5,,,,,,,{},,,,0|i000l8:,,EL Sprint 1,,,,,,,,Done
+"As a user, I want to share files with my course-mates using Dropbox",EL-8,10007,Story,In Progress,EL,Elearning,software,Abhishek Maiti,620b30fe1d088700694d76f9,,Medium,,Abhishek Maiti,620b30fe1d088700694d76f9,Abhishek Maiti,620b30fe1d088700694d76f9,Abhishek Maiti,620b30fe1d088700694d76f9,15/Feb/22 2:13 PM,21/Feb/22 9:49 AM,17/Feb/22 5:22 PM,,,0,Dropbox,"I want to create notes in the Notebook section to make rough gist of the course studies.
+
+Steps:
+
+# Login to the eLearning portal
+# Go to my courses
+# Click on the subscribed course
+# Scroll down and click on Dropbox
+
+Acceptance Criteria:
+
+Users should be able to share files with their fellow batchmates by uploading.
+
+There should be a file creation option to store multiple files in a folder.
+
+The file category name field should accept alphabets, numbers, special characters. It is a mandatory field.
+
+On the dropbox homepage, sent and received files should be present.
+
+There must be an option to apply bulk changes to all the sent or received files.",,Abhishek Maiti,620b30fe1d088700694d76f9,,,,,,,,,,EL-60,,,,,,,{},,,,0|i00010:,,EL Sprint 1,,,,,,,,In Progress
+"As a user, I want to use the Notebook for saving my notes",EL-5,10004,Story,In Progress,EL,Elearning,software,Abhishek Maiti,620b30fe1d088700694d76f9,,Medium,,Abhishek Maiti,620b30fe1d088700694d76f9,Abhishek Maiti,620b30fe1d088700694d76f9,Abhishek Maiti,620b30fe1d088700694d76f9,15/Feb/22 2:08 PM,21/Feb/22 9:49 AM,17/Feb/22 5:12 PM,,,0,Notebook,"I want to create notes in the Notebook section to make rough gist of the course studies.
+
+Steps:
+
+# Login to the eLearning portal
+# Go to my courses
+# Click on the subscribed course
+# Scroll down and click on Notebook
+
+Acceptance Criteria:
+
+The Note title field should contain alphabets, numbers, special characters. The maximum limit is 30 characters. It is a mandatory field.
+
+The Note details field should contain alphabets, numbers, special characters. There is no maximum limit for characters. It is not a mandatory field. Users should be able to change the text colour, font, size etc. 
+
+There should be a Back button to undo any unintended note creation.
+
+On the notebook homepage, all notes should be present.
+
+There should be options to sort all the notes according to date of creation, modification and alphabetically in ascending or descending order.",,Abhishek Maiti,620b30fe1d088700694d76f9,,,,,,,,,,,,,,,,,{},,,,0|i0000c:,,EL Sprint 1,,,,,,,,In Progress
